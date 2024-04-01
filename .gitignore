@@ -66,8 +66,6 @@ docs/api/python
 docs/notebooks
 
 
-integration/duckdb/*-build
-integration/duckdb/lance.duckdb_extension.*.zip
 
 notebooks/lance.duckdb_extension
 notebooks/sift
