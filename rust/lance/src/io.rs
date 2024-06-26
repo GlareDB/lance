@@ -21,3 +21,4 @@ pub use lance_io::{
     object_store::{ObjectStore, ObjectStoreParams, WrappingObjectStore},
     stream::RecordBatchStream,
 };
+pub use lance_table::io::commit::commit_handler_from_url;
